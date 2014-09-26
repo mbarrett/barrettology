@@ -3,6 +3,6 @@ barrettology
 
 Personal website.
 
-Built with Boostrap and some JS plugins.
+Built with <a href="http://getbootstrap.com/">Bootstrap</a> and some JS plugins.
 
 That. Is. All.
